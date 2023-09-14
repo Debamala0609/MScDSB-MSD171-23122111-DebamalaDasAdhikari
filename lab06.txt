@@ -1,0 +1,400 @@
+Banana,120,4
+Olive Oil,120,1
+Apples,90,6
+Banana,90,2
+Eggs,160,8
+Tomato Paste,600,6
+Pasta,70,9
+Banana,70,5
+Olive Oil,600,10
+Lemons,90,3
+Lemons,40,10
+Eggs,70,7
+Olive Oil,90,9
+Apples,120,9
+Vinegar,120,6
+Fresh Herbs,120,1
+Eggs,60,5
+Eggs,90,8
+Olive Oil,120,6
+Lemons,160,9
+Vinegar,70,2
+Olive Oil,90,3
+Olive Oil,70,4
+Lemons,600,6
+Pasta,120,9
+Fresh Herbs,100,10
+Fresh Herbs,60,9
+Pasta,120,1
+Eggs,60,4
+Flour,40,4
+Olive Oil,90,3
+Apples,60,7
+Lemons,600,6
+Banana,60,5
+Banana,70,1
+Vinegar,60,2
+Apples,70,5
+Olive Oil,160,4
+Eggs,120,7
+Vinegar,100,4
+Tomato Paste,70,7
+Fresh Herbs,600,4
+Lemons,100,4
+Lemons,60,7
+Olive Oil,120,3
+Pasta,600,9
+Fresh Herbs,60,9
+Eggs,600,3
+Apples,60,4
+Eggs,60,8
+Banana,70,6
+Lemons,60,2
+Pasta,60,8
+Banana,40,3
+Vinegar,90,6
+Olive Oil,60,9
+Vinegar,120,8
+Lemons,120,4
+Apples,60,4
+Olive Oil,70,6
+Apples,40,6
+Pasta,70,10
+Eggs,100,3
+Eggs,60,6
+Eggs,600,9
+Eggs,60,8
+Pasta,100,1
+Olive Oil,160,5
+Flour,600,7
+Apples,120,8
+Pasta,100,7
+Lemons,60,6
+Flour,120,9
+Olive Oil,60,2
+Olive Oil,100,6
+Lemons,60,3
+Lemons,600,7
+Eggs,160,2
+Banana,70,5
+Flour,120,2
+Lemons,90,7
+Fresh Herbs,70,6
+Flour,60,1
+Flour,60,8
+Apples,90,5
+Banana,100,8
+Vinegar,600,5
+Eggs,90,7
+Pasta,120,3
+Lemons,40,10
+Banana,120,2
+Lemons,120,3
+Vinegar,40,8
+Banana,60,5
+Lemons,70,4
+Olive Oil,60,7
+Lemons,120,2
+Flour,70,5
+Olive Oil,70,1
+Banana,40,8
+Vinegar,90,2
+Banana,160,8
+Eggs,90,9
+Lemons,90,6
+Tomato Paste,60,8
+Banana,40,5
+Flour,120,3
+Apples,40,7
+Lemons,60,10
+Pasta,100,2
+Tomato Paste,160,8
+Vinegar,600,7
+Vinegar,70,5
+Pasta,600,8
+Fresh Herbs,70,8
+Banana,40,4
+Eggs,90,1
+Olive Oil,90,7
+Fresh Herbs,100,10
+Olive Oil,90,5
+Pasta,90,4
+Flour,160,9
+Lemons,120,1
+Lemons,70,6
+Tomato Paste,70,7
+Olive Oil,70,9
+Banana,600,3
+Eggs,60,8
+Eggs,60,2
+Olive Oil,90,2
+Apples,100,7
+Lemons,160,1
+Eggs,100,9
+Flour,70,4
+Apples,120,2
+Eggs,90,1
+Vinegar,90,3
+Eggs,40,5
+Fresh Herbs,90,10
+Apples,70,1
+Eggs,160,6
+Tomato Paste,160,10
+Fresh Herbs,90,10
+Banana,70,4
+Flour,100,1
+Apples,600,10
+Vinegar,70,2
+Banana,70,1
+Eggs,40,4
+Pasta,160,5
+Fresh Herbs,60,2
+Olive Oil,60,7
+Lemons,70,3
+Flour,70,5
+Lemons,60,6
+Banana,600,2
+Flour,120,10
+Fresh Herbs,60,6
+Eggs,100,3
+Pasta,120,10
+Vinegar,40,6
+Olive Oil,90,9
+Lemons,160,4
+Olive Oil,160,5
+Eggs,160,9
+Tomato Paste,60,10
+Lemons,60,8
+Olive Oil,600,8
+Pasta,90,6
+Eggs,60,4
+Vinegar,160,1
+Vinegar,70,1
+Eggs,100,4
+Olive Oil,600,3
+Vinegar,40,7
+Apples,70,10
+Olive Oil,600,1
+Fresh Herbs,70,3
+Pasta,60,1
+Fresh Herbs,60,6
+Pasta,70,6
+Tomato Paste,60,8
+Pasta,60,7
+Tomato Paste,60,7
+Olive Oil,60,9
+Fresh Herbs,60,10
+Fresh Herbs,100,7
+Apples,600,2
+Vinegar,120,6
+Apples,120,9
+Lemons,160,5
+Tomato Paste,90,3
+Pasta,90,10
+Tomato Paste,40,4
+Apples,90,9
+Flour,120,4
+Banana,40,6
+Olive Oil,600,7
+Olive Oil,160,1
+Banana,60,5
+Fresh Herbs,60,7
+Vinegar,160,7
+Banana,60,5
+Pasta,40,2
+Apples,70,9
+Apples,60,4
+Fresh Herbs,600,4
+Pasta,160,8
+Eggs,100,9
+Fresh Herbs,160,3
+Apples,60,6
+Fresh Herbs,90,8
+Fresh Herbs,100,4
+Tomato Paste,600,8
+Tomato Paste,90,5
+Vinegar,100,5
+Olive Oil,100,7
+Apples,40,6
+Tomato Paste,120,7
+Lemons,70,8
+Lemons,70,5
+Olive Oil,100,4
+Pasta,90,1
+Pasta,70,1
+Fresh Herbs,90,2
+Pasta,60,1
+Flour,60,4
+Lemons,60,1
+Eggs,60,1
+Olive Oil,60,9
+Fresh Herbs,100,9
+Olive Oil,120,4
+Eggs,70,5
+Fresh Herbs,60,1
+Olive Oil,60,9
+Tomato Paste,60,8
+Tomato Paste,40,2
+Pasta,100,4
+Fresh Herbs,120,5
+Apples,60,6
+Banana,100,1
+Flour,40,5
+Tomato Paste,40,4
+Banana,70,5
+Eggs,600,9
+Banana,70,6
+Lemons,120,9
+Banana,70,7
+Apples,120,4
+Flour,70,2
+Pasta,90,4
+Eggs,90,9
+Tomato Paste,60,8
+Apples,160,8
+Pasta,120,1
+Pasta,70,4
+Apples,70,10
+Eggs,90,9
+Lemons,70,8
+Vinegar,100,4
+Vinegar,70,8
+Apples,40,2
+Fresh Herbs,160,4
+Banana,600,7
+Pasta,600,4
+Vinegar,70,2
+Lemons,70,6
+Fresh Herbs,60,10
+Pasta,600,2
+Vinegar,70,5
+Olive Oil,160,1
+Apples,70,2
+Eggs,40,5
+Flour,100,2
+Apples,600,4
+Eggs,60,5
+Flour,160,5
+Tomato Paste,120,9
+Lemons,70,4
+Olive Oil,120,2
+Pasta,90,3
+Apples,60,4
+Olive Oil,100,5
+Fresh Herbs,600,9
+Vinegar,160,1
+Fresh Herbs,600,2
+Banana,70,9
+Olive Oil,40,2
+Pasta,60,10
+Banana,60,6
+Olive Oil,70,7
+Olive Oil,90,8
+Olive Oil,600,9
+Eggs,70,8
+Tomato Paste,40,8
+Eggs,60,1
+Lemons,160,6
+Apples,70,9
+Tomato Paste,100,2
+Lemons,600,8
+Fresh Herbs,250,6 
+Fresh Herbs,130,6 
+Flour,130,5 
+Banana,50,3 
+Banana,400,9 
+Olive Oil,100,10 
+Eggs,300,5 
+Olive Oil,250,8 
+Tomato Paste,200,2 
+Flour,100,1 
+Fresh Herbs,400,4 
+Flour,230,9 
+Eggs,400,6 
+Flour,130,8 
+Vinegar,230,6 
+Vinegar,50,9 
+Banana,200,6 
+Lemons,99,9 
+Fresh Herbs,50,6 
+Banana,230,4 
+Tomato Paste,230,2 
+Fresh Herbs,400,6 
+Pasta,99,7 
+Lemons,400,2 
+Vinegar,250,2 
+Vinegar,250,7 
+Banana,200,6 
+Olive Oil,130,8 
+Apples,300,4 
+Apples,50,2 
+Pasta,99,5 
+Tomato Paste,150,5 
+Eggs,100,8 
+Pasta,250,2 
+Pasta,200,6 
+Eggs,130,3 
+Lemons,99,2 
+Vinegar,130,10 
+Apples,99,5 
+Olive Oil,50,6 
+Fresh Herbs,200,9 
+Tomato Paste,300,8 
+Fresh Herbs,130,5 
+Lemons,150,1 
+Tomato Paste,130,5 
+Banana,130,9 
+Pasta,100,3 
+Eggs,130,2 
+Apples,50,5 
+Tomato Paste,250,3 
+Apples,300,1 
+Flour,400,2 
+Flour,200,7 
+Lemons,200,1 
+Apples,100,1 
+Fresh Herbs,99,2 
+Lemons,50,5 
+Vinegar,100,8 
+Flour,150,10 
+Fresh Herbs,230,8 
+Banana,300,7 
+Flour,150,1 
+Vinegar,50,1 
+Banana,130,5 
+Flour,150,6 
+Lemons,100,7 
+Lemons,130,3 
+Olive Oil,300,7 
+Lemons,200,5 
+Pasta,130,7 
+Fresh Herbs,300,7 
+Eggs,99,1 
+Olive Oil,230,6 
+Eggs,130,9 
+Lemons,400,7 
+Pasta,50,10 
+Olive Oil,200,4 
+Vinegar,400,9 
+Tomato Paste,300,7 
+Banana,130,10 
+Pasta,300,8 
+Apples,200,1 
+Tomato Paste,200,3 
+Pasta,130,10 
+Vinegar,99,8 
+Banana,200,1 
+Apples,200,9 
+Fresh Herbs,250,1 
+Vinegar,250,7 
+Banana,100,7 
+Lemons,230,5 
+Eggs,200,10 
+Apples,99,5 
+Tomato Paste,130,5 
+Pasta,200,9 
+Pasta,300,4 
+Tomato Paste,230,1 
+Fresh Herbs,150,5 
+Fresh Herbs,50,6 
+Fresh Herbs,300,3 
