@@ -1,0 +1,8 @@
+Total Order Till Date: 0
+Name: devmala
+Phone Number: 7055070679
+Food Price: 200
+Total qty: 2
+Total Guest: 2
+Date: 20-05-2023
+---------------------------------Total price For This Order: 400---------------------------------
