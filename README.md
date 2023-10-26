@@ -1,4 +1,4 @@
-# MscDSB-MDS171-23122105-Aman
+
 Name : DEBAMALA DSAS ADHIKARI
    Register No: 23122111
 
