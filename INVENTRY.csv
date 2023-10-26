@@ -1,0 +1,7 @@
+productid ,productname ,quantity,price
+PID001,bat ,30,700000
+PID002,ball ,30,700001
+PID003,badminton ,40,700002
+PID004,stumps ,50,700003
+PID005,basketball,60,700004
+PID006,football,70,700005

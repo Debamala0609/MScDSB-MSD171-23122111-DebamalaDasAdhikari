@@ -1,0 +1,11 @@
+orderid ,itemname ,quantity ,price,total
+OD0001,Bat ,2,1000,2000
+OD0002,ball,5,1500,7500
+OD0003,badmintion ,2,300,600
+OD0004,stumps,6,400,2400
+OD0005,football,9,6700,60300
+OD0006,basket ball,4,3400,13600
+OD0007,bat ball ,1,2000,2000
+OD0008,football,8,5600,44800
+OD0009,basketball,8,4500,36000
+OD0010,basketball,5,4500,22500
